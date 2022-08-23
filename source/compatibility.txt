@@ -19,7 +19,7 @@ The following compatibility table specifies the recommended version(s) of the
 
 The first column lists the driver version(s).
 
-.. sharedinclude:: dbx/compatibility-table-legend.rst
+.. include:: /includes/compatibility-table-legend.rst
 
 .. include:: /includes/mongodb-compatibility-table-java.rst
 

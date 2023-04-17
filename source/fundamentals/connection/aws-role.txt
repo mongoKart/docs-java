@@ -1,0 +1,20 @@
+.. _aws-role:
+
+====================================
+Connect to MongoDB Using an AWS Role
+====================================
+
+.. contents:: On this page
+   :local:
+   :backlinks: none
+   :depth: 2
+   :class: singlecol
+
+
+Overview
+--------
+
+In this guide, you can learn how to connect the MongoDB Java driver
+to your MongoDB instance using a Java Naming and Directory Interface
+(JNDI) Datasource.
+ 
